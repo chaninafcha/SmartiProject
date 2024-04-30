@@ -1,0 +1,6 @@
+@Smarti_HostAddress = http://localhost:5280
+
+GET {{Smarti_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

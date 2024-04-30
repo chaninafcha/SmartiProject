@@ -1,0 +1,12 @@
+{
+  "entityType": "person",
+  "priorities": {
+    "tz": [ "webint", "D2" ],
+    "name": [ "webint", "D2" ],
+    "age": [ "D2", "webint" ],
+    "address": {
+      "city": [ "D2", "webint" ],
+      "region": [ "webint", "D2" ]
+    }
+  }
+}
